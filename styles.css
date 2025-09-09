@@ -1,0 +1,36 @@
+ body {
+     font-family:  Arial,sans-serif;
+     text-align: center;
+     margin-top: 50px;
+ }
+
+ #pokemonName {
+     width: 300px;
+     padding: 12px;
+     font-size: 18px;
+     border-radius: 8px;
+     border: 2px solid #555;
+ }
+
+ #searchPokemon {
+     padding: 12px 24px;
+     font-size: 18px;
+     margin-left: 10px;
+     border-radius: 8px;
+     background: #ffcb05;
+     border: 2px solid black;
+     cursor: pointer;
+ }
+
+ #searchPokemon:hover {
+     background: #000000;
+     color:white
+ }
+
+ #pokemonSprite {
+
+     width: 250px;
+     height: 250px;
+     display: block;
+     margin: auto auto;
+ }
