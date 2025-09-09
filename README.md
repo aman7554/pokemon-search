@@ -23,11 +23,11 @@ Search any Pokémon by name to instantly view:
 ## Demo
 
 🔗 [Live Demo](https://aman7554.github.io/pokemon-search/)
-💻 [GitHub Repository](https://github.com/aman7554/pokemon-search/)
+💻 [GitHub Repository](https://github.com/aman7554/pokemon-search)
 
 ---
 
-##Screenshot
+## Screenshot
 
 ![Screenshot 1](https://github.com/aman7554/pokemon-search/blob/main/Screenshot%201.png)
 ![Screenshot 2](https://github.com/aman7554/pokemon-search/blob/main/Screenshot%202.png)
